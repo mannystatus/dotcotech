@@ -1,0 +1,174 @@
+{
+  "Header": {
+    "title": "Dotco Technologies",
+    "paragraph": "Our company is a leading provider of IT solutions for businesses of all sizes. With a team of skilled and experienced professionals, we offer a range of services including software development, network design and implementation, and technical support. Our goal is to help our clients maximize the potential of technology to improve their operations and achieve their business objectives. We pride ourselves on delivering top-quality service and building long-term relationships with our clients."
+  },
+  "About": {
+    "paragraph": "Welcome to our information technology website! We are a team of dedicated IT professionals with a passion for staying up-to-date on the latest trends and technologies. Our mission is to help businesses and organizations leverage the power of technology to improve their operations and achieve their goals. On our website, you'll find a wide range of resources and services designed to meet your IT needs. From software development and network design to technical support and cybersecurity, we've got you covered. We pride ourselves on delivering top-quality service and building long-term relationships with our clients. Thank you for visiting our website. We hope you find the information and resources you're looking for, and we look forward to the opportunity to work with you.",
+    "Why": [
+      "Trusted Technology Expert",
+      "Cost Exffective Options",
+      "We're Solutions Driven",
+      "Data Analytics Solutions"
+    ],
+    "Why2": [
+      "IT Project Management",
+      "Solutions Architect",
+      "System Integrator",
+      "24-7 Support"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "IT Support",
+      "text": "Inquire"
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Cloud Support",
+      "text": "Inquire"
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Data Analytics",
+      "text": "Inquire"
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Systems Deployments",
+      "text": "Inquire"
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Managing Service Provider",
+      "text": "Inquire"
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Systems Automation",
+      "text": "Inquire"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Manny is a great team member and collaborator. He works to understand the post production needs and stays ahead of the curve with infrastructure and technologies that support post workflows and efficiencies. I've had a great experience working with Manny and would strongly recommend him for any role that works with a post production team..\"",
+      "name": "Gerry Mattei"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"I couldn't be more appreciative for the opportunity to work with Manny. He is incredibly smart, driven, thoughtful...with endless dedication to solving every problem, every need, with care and passion for his work. Manny is truly a 'team' player who understands how to position a company for success. Equally important, he is an absolute joy to work with and I look forward to any opportunity for our paths to cross. .\"",
+      "name": "Chris Miller"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Manny is has the tenacity and brains to both build and fix complicated systems at complicated organizations. At Jukin, where there were multiple business units, some with competing business objectives and needs, he was able to calmly pull together a number of systems that had a major impact on productivity, as well as help find solutions to long-standing pain points. \"",
+      "name": "Criag Parks"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Manny and I worked together for the better part of a year at Jukin. He is capable, intelligent, thoughtful, hard-working, and an absolute delight. He is a consummate professional, and at his core, a problem solver. Given the opportunity, I would gladly work with him again in the future. \"",
+      "name": "George Telonis"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Having built networks for production studios and scaled content operations with world-class integrators and CTO’s, I can tell you it takes a special kind of professional to navigate the complexity of post-production technology. It’s a rare IT Director that knows his way around an edit bay as seamlessly as he can deploy global enterprise-level security protocols. Manny is not only a team player, but his background uniquely qualifies him to bridge the gap between creative studio and company wide solutions in the entertainment/publishing space. With him you can expect a well of experience coupled with an incessant curiosity for optimization, keys to success in our evolving industry. \"",
+      "name": "Octavio Perez"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Manny is a proactive problem solver who is now overseeing huge employee growth internationally. He works tirelessly to make sure our team is equipped to perform, ensuring we didn't skip a beat when the entire company went remote during the 2020 lockdown. Unique among IT executives, Manny gets ahead of issues by regularly conferring with business leaders. He establishes great relationships and friendships with colleagues and I can't wait to work with him again!\"",
+      "name": "Tom Balamaci"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Manny Contreras",
+      "job": "Sr Solutions Engineer"
+    },
+{
+      "img": "img/team/02.jpg",
+      "name": "Veronica Tena",
+      "job": "Operations Manager"
+    }
+   
+  ],
+  "Contact": {
+    "address": "5700 Wilshire Blvd, Los Angeles, CA, 90036 ",
+    "phone": "323 826-7771",
+    "email": "hello@dotcotech.com",
+    "LinkedIn": "linkedin.com/company/dotco-tech/",
+    "Instagram": "instagram.com/dotcotechnologies"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Cloud Computing",
+      "text": "AWS, Google Cloud, BackBlaze"
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Network Security",
+      "text": "NetOps, VPN, Remote Workflow"
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Managed IT Services",
+      "text": "Email, Mac, PC, MDM, MSP" 
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Data Analytics",
+      "text": "Analized and built readable charts for your organization"
+    }
+  ]
+}
